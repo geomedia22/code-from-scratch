@@ -1,0 +1,57 @@
+*{
+  font-family: Helvetica;
+}
+
+.header{
+  background-image: url("resources/images/pattern.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.image{
+  position: relative;
+  width: 100%
+  height: 100vh
+}
+
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  mix-blend-mode: difference;
+  top: auto;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2,
+.brushes{
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h2,
+.frames{
+  color: white;
+  background-color: lightcoral;
+}
+
+h2,
+paint{
+  color: white;
+  background-color: skyblue;
+}
+
+h3{
+  font-size: 24px;
+  font-weight: bold;
+}
+p{
+  font-size: 16px;
+  font-weight: normal;
+}
